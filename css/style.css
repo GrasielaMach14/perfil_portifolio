@@ -37,6 +37,9 @@ header {
   font-size: 40px;
   text-align: center;
 }
+.h3-height{
+  height: 85px;
+}
 @media (min-width: 768px) {
    header {
      min-height: 100%;
@@ -70,7 +73,7 @@ header {
      text-align: center;
    }
  }
- .text-center{
+.text-center{
   text-align: center;
   color: #F0F8FF;
 }
@@ -80,4 +83,31 @@ section{
 hr.light {
   border-width: 4px;
   max-width: 700px;
+}
+.background-section{
+  background-size: 1200px;
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+.tamb-img{
+  width: 100%;
+  height: 266px !important;
+}
+.li-height-p{
+  height: 100px;
+}
+/* Esta classe é usada para ajustar os tamanhos das imagens nos slides */
+.tam-img-caroulsel{
+  width: 100% !important;
+  height: 590px !important;
+}
+.btn-lg{
+  padding: 10px 75px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+footer{
+  margin-top: 10%;
+  font-size: 20px;
 }
