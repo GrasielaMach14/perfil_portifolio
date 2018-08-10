@@ -85,6 +85,7 @@ hr.light {
   max-width: 700px;
 }
 .background-section{
+  background-color: #02719f;
   background-size: 1200px;
   margin-bottom: 1%;
   margin-top: 1%;
@@ -100,6 +101,11 @@ hr.light {
 .tam-img-caroulsel{
   width: 100% !important;
   height: 590px !important;
+}
+.btn-gray{
+  color: white;
+  background-color: #78ACC0;
+  border-color: #5B6777;
 }
 .btn-lg{
   padding: 10px 75px;
