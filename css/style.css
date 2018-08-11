@@ -10,6 +10,7 @@ header {
    background-image: url('../img/bolhas.jpg');
    text-align: center;
    color: white;
+   margin-top: -20px;
  }
  header .header-content {
    position: relative;
@@ -59,8 +60,8 @@ header {
      margin-left: auto;
      margin-right: auto;
      text-align: center;
-     padding-top: 23px;
-   }
+     padding-top: 93px;
+  }
    header .header-content .header-content-inner h1 {
      font-size: 50px;
      text-align: center;
@@ -89,6 +90,7 @@ hr.light {
   background-size: 1200px;
   margin-bottom: 1%;
   margin-top: 1%;
+  padding-bottom: 20px;
 }
 .tamb-img{
   width: 100%;
@@ -113,7 +115,18 @@ hr.light {
   line-height: 1.3333333;
   border-radius: 6px;
 }
+.pag-img{
+  float: left;
+  padding-right: 400px;
+  margin-right: -380px;
+  margin-left: 25px;
+}
+.pag-header-content-inner{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 53px;
+}
 footer{
   margin-top: 10%;
-  font-size: 20px;
+  font-size: 15px;
 }
